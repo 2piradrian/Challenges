@@ -11,4 +11,8 @@ Resolución propias de los challenges propuestos por la institución NUCBA.
 # 005 | Pricing Card | Desktop | HTML & CSS
 ![Captura de la resolución del challenge 005](https://github.com/2piradrian/Challenges/blob/main/Capturas/005-Desktop.jpg)
 # 005 | Pricing Card | Mobile | HTML & CSS
-![Captura de la resolución del challenge 005](https://github.com/2piradrian/Challenges/blob/main/Capturas/005-Mobile.jpg)
+![Captura de la resolución del challenge 005](https://github.com/2piradrian/Challenges/blob/main/Capturas/005-Mobile.png)
+# 006 | FAQS | Desktop | HTML & CSS
+![Captura de la resolución del challenge 006](https://github.com/2piradrian/Challenges/blob/main/Capturas/006-Desktop.jpg)
+# 006 | FAQS | Mobile | HTML & CSS
+![Captura de la resolución del challenge 006](https://github.com/2piradrian/Challenges/blob/main/Capturas/006-Mobile.png)
