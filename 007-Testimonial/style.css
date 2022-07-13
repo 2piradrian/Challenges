@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation:wght@400;600&family=Roboto:wght@500&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Edu NSW ACT Foundation';
+}
+.content{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F0F0F0;
+}
+.testimonial-container{
+    width: 90%;
+    max-width: 1300px;
+    padding: 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr; 
+    grid-template-rows: 50% 50%;
+}
+.testimonial{
+    margin: 10px;
+}
+.personal-info{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+.personal-info > img{
+    height: 40px;
+    border-radius: 50%;
+}
+.testimonial:nth-child(1){
+    background-color: aqua;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 1;
+}
+.testimonial:nth-child(2){
+    background-color: coral;
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 1;
+}
+.testimonial:nth-child(3){
+    background-color: blueviolet;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 2;
+    grid-row-end: 3;
+}
+.testimonial:nth-child(4){
+    background-color: red;
+    grid-column-start: 2;
+    grid-column-end: 4;
+    grid-row-start: 2;
+    grid-row-end: 3;
+}
+.testimonial:nth-child(5){
+    background-color: green;
+    grid-column-start: 4;
+    grid-column-end: 5;
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
+
+
+.testimonial{
+    padding: 10px;
+    border-radius: 20px;
+    background-color: coral;
+}
+.name > p{
+    font-family: 'Roboto', sans-serif;
+}
