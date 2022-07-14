@@ -16,3 +16,5 @@ Resolución propias de los challenges propuestos por la institución NUCBA.
 ![Captura de la resolución del challenge 006](https://github.com/2piradrian/Challenges/blob/main/Capturas/006-Desktop.jpg)
 # 006 | FAQS | Mobile | HTML & CSS
 ![Captura de la resolución del challenge 006](https://github.com/2piradrian/Challenges/blob/main/Capturas/006-MobileV2.png)
+# 007 | Testimonial | HTML & CSS
+![Captura de la resolución del challenge 007](https://github.com/2piradrian/Challenges/blob/main/Capturas/007.jpg)
