@@ -1,5 +1,5 @@
 # Challenges
-Resolución propias de los challenges propuestos por la institución NUCBA.
+Resolución de challenges.
 # 001 | Pop-ups | HTML & CSS
 ![Captura de la resolución del challenge 001](https://github.com/2piradrian/Challenges/blob/main/Capturas/001.jpg) 
 # 002 | Feedback | HTML & CSS
